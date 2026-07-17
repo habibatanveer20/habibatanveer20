@@ -121,16 +121,6 @@ Real-time object detection · Currency recognition · Offline face recognition �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg" width="100%" />
-
-<sub>⚙️ Requires a one-time GitHub Action setup — instructions below</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
-
 ## 📌 Pinned Projects
 
 <div align="center">
