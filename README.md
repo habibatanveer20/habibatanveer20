@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=230&section=header&text=Habiba%20Tanveer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=R%26D%20Lead%20%40%20IIB%20Tech%20%7C%20AI%20%2B%20Android%20%2B%20RAG%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA751,50:8E2DE2,75:4D96FF,100:11998e&height=230&section=header&text=Habiba%20Tanveer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=R%26D%20Lead%20%40%20IIB%20Tech%20%7C%20AI%20%2B%20Android%20%2B%20RAG%20Engineer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Building+an+AI-native+ERP+from+scratch;RAG+%7C+LangChain+%7C+ChromaDB+%7C+LLMs;Voice-first+Accessibility+Engineering;Silver+Medalist+%40+PMAS+Arid+University" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFA751,8E2DE2,4D96FF,11998e&center=true&vCenter=true&width=700&lines=Building+an+AI-native+ERP+from+scratch;RAG+%7C+LangChain+%7C+ChromaDB+%7C+LLMs;Voice-first+Accessibility+Engineering;Silver+Medalist+%40+PMAS+Arid+University" />
 
 <br/>
 
@@ -26,7 +26,7 @@ fun_fact:      Built a smart stick that sees for the visually impaired 🦯
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=4&section=header" width="100%"/>
 
 ## 🧠 Currently
 
@@ -47,7 +47,7 @@ LangChain · ChromaDB / FAISS · open-source LLMs (Llama 3, Qwen, Mistral) — h
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA751,100:FFE259&height=4&section=header" width="100%"/>
 
 ## ⚡ Tech Arsenal
 
@@ -64,7 +64,7 @@ LangChain · ChromaDB / FAISS · open-source LLMs (Llama 3, Qwen, Mistral) — h
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=4&section=header" width="100%"/>
 
 ## 💼 Experience
 
@@ -89,7 +89,7 @@ Engineered REST APIs for a Laravel multi-vendor e-commerce platform; optimized M
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,100:8E54E9&height=4&section=header" width="100%"/>
 
 ## 🚀 Flagship Project
 
@@ -104,22 +104,22 @@ Real-time object detection · Currency recognition · Offline face recognition �
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=habibatanveer20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8E2DE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibatanveer20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=habibatanveer20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFA751&icon_color=FF6B6B&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibatanveer20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4D96FF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibatanveer20&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=A855F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibatanveer20&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFA751&currStreakLabel=8E2DE2" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FC466B,100:3F5EFB&height=4&section=header" width="100%"/>
 
 ## 📌 Pinned Projects
 
@@ -134,7 +134,7 @@ Real-time object detection · Currency recognition · Offline face recognition �
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=4&section=header" width="100%"/>
 
 ## 🎓 Education
 
@@ -149,7 +149,7 @@ Unity 3D Game Development — IICO Institute
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,25:4D96FF,50:8E2DE2,75:FF512F,100:FFA751&height=120&section=footer" />
 
 *"Building AI that understands, not just automates."*
 </div>
