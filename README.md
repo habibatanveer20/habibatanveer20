@@ -16,6 +16,16 @@
 
 <br/>
 
+```yaml
+whoami:        Habiba Tanveer
+role:          R&D Lead @ IIB Tech
+building:      AI-native ERP — React · FastAPI · PostgreSQL · LangChain
+obsessed_with: Retrieval-Augmented Generation, Accessibility Engineering
+fun_fact:      Built a smart stick that sees for the visually impaired 🦯
+```
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
 
 ## 🧠 Currently
@@ -85,7 +95,7 @@ Engineered REST APIs for a Laravel multi-vendor e-commerce platform; optimized M
 
 <div align="center">
 
-### 🦯 Bazm-e-Raah — AI-Powered Smart Assistive System
+### 🦯 Bazm-e-Rah — AI-Powered Smart Assistive System
 *A fully hands-free, voice-first Android app for visually impaired users*
 
 `TensorFlow Lite` · `Android (Java)` · `Firebase` · `Text-to-Speech`
@@ -105,10 +115,18 @@ Real-time object detection · Currency recognition · Offline face recognition �
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibatanveer20&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=A855F7" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=redical&bg_color=0d1117&color=A855F7&line=8E2DE2&point=ffffff&hide_border=true" width="100%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>⚙️ Requires a one-time GitHub Action setup — instructions below</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=3&section=header" width="100%"/>
@@ -117,12 +135,12 @@ Real-time object detection · Currency recognition · Offline face recognition �
 
 <div align="center">
 
-<a href="https://github.com/habibatanveer20/Bazm-e-Raah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Bazm-e-Raah&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/T-to-T"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=T-to-T&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/habibatanveer20/Bazm-e-Rah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Bazm-e-Rah&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 <a href="https://github.com/habibatanveer20/Loan-Approval-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Loan-Approval-Prediction&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 <a href="https://github.com/habibatanveer20/Customer-Segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Customer-Segmentation&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/Forest-Cover-Type-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Forest-Cover-Type-Classification&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 <a href="https://github.com/habibatanveer20/Student-Score-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Student-Score-Prediction&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/habibatanveer20/Forest-Cover-Type-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Forest-Cover-Type-Classification&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/habibatanveer20/BrainsConnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=BrainsConnect&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 
 </div>
 
