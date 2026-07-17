@@ -1,155 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFA751,50:8E2DE2,75:4D96FF,100:11998e&height=230&section=header&text=Habiba%20Tanveer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=R%26D%20Lead%20%40%20IIB%20Tech%20%7C%20AI%20%2B%20Android%20%2B%20RAG%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:FF69B4,100:FF1493&height=230&section=header&text=Hi,%20I'm%20Habiba%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=R%26D%20Lead%20@%20IIB%20Tech%20%7C%20Building%20AI-Native%20ERP%20from%20Scratch&descAlignY=58&descSize=17&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFA751,8E2DE2,4D96FF,11998e&center=true&vCenter=true&width=700&lines=Building+an+AI-native+ERP+from+scratch;RAG+%7C+LangChain+%7C+ChromaDB+%7C+LLMs;Voice-first+Accessibility+Engineering;Silver+Medalist+%40+PMAS+Arid+University" />
+<a href="https://github.com/yourusername">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=650&lines=R%26D+Lead+%40+IIB+Tech+%F0%9F%92%97;Architecting+an+AI-Native+ERP+Platform;RAG+%7C+LangChain+%7C+FastAPI+%7C+React+%7C+Flutter;Android+Dev+%E2%86%92+AI%2FML+Explorer;Silver+Medalist+%F0%9F%A5%88+Software+Engineering" alt="Typing SVG" />
+</a>
 
-<br/>
-
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:habibatanveer347@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/habibatanveer20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/PROFILE-VIEWS-FF1493?style=for-the-badge&labelColor=FFF0F5" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=for-the-badge&label=" alt="profile views"/>
 
 </div>
 
-<br/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 💗 About Me
 
 ```yaml
-whoami:        Habiba Tanveer
-role:          R&D Lead @ IIB Tech
-building:      AI-native ERP — React · FastAPI · PostgreSQL · LangChain
-obsessed_with: Retrieval-Augmented Generation, Accessibility Engineering
-fun_fact:      Built a smart stick that sees for the visually impaired 🦯
+role:        R&D Lead @ IIB Tech
+building:    AI-integrated ERP platform (React · Flutter · FastAPI · PostgreSQL) — solo-built, from scratch
+focus:       RAG pipelines with LangChain + ChromaDB/FAISS + open-source LLMs (Llama 3 / Qwen / Mistral)
+background:  BS Software Engineering — PMAS Arid Agriculture University
+honor:       🥈 Silver Medalist — 2nd Position, CGPA 3.86/4.00
+roots:       Android development (Java) → now expanding into AI/ML & backend systems
+currently:   Learning RAG hands-on, evaluating Azure OpenAI for infra
 ```
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=4&section=header" width="100%"/>
+## 🚀 What I'm Building
 
-## 🧠 Currently
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🏢 R&D Lead @ IIB Tech**
-Architecting a standalone, AI-native ERP platform from the ground up — sole R&D contributor driving MVP → AI layer → full module rollout.
+### 🏗️ AI-Native ERP (IIB Tech)
+A standalone, market-sellable ERP platform with AI woven into the core — not bolted on. Phased roadmap: MVP core modules → RAG/AI layer → personalization → full module expansion.
 
 </td>
 <td width="50%" valign="top">
 
-**🔬 Deep-diving into RAG**
-LangChain · ChromaDB / FAISS · open-source LLMs (Llama 3, Qwen, Mistral) — hands-on, building real retrieval pipelines, not just tutorials.
+### 👁️ Bazm-e-Raah
+Voice-first assistive Android app for the visually impaired — TensorFlow Lite object detection, ML Kit/FaceNet face recognition, Raspberry Pi hardware, emergency calling, TTS/STT.
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA751,100:FFE259&height=4&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,csharp,php,js,mysql,postgres&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,laravel,firebase,fastapi,git,unity&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,vscode&theme=dark" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-8E2DE2?style=for-the-badge&logo=OpenAI&logoColor=white" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=4&section=header" width="100%"/>
-
-## 💼 Experience
-
-<table>
-<tr><td>
-
-**R&D Lead** · IIB Tech
-Leading development of an AI-integrated ERP platform, solo-built from architecture to execution.
-
-</td></tr>
-<tr><td>
-
-**Machine Learning Intern** · Elevvo Pathways · *Aug – Sep 2025*
-Trained supervised ML models with measurable accuracy gains via hyperparameter tuning & cross-validation; shipped 3 production-ready model iterations.
-
-</td></tr>
-<tr><td>
-
-**Backend Developer Intern** · HSN Innovator · *Jul – Sep 2024*
-Engineered REST APIs for a Laravel multi-vendor e-commerce platform; optimized MySQL queries and reduced response times.
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4776E6,100:8E54E9&height=4&section=header" width="100%"/>
-
-## 🚀 Flagship Project
+## 💎 Tech Stack
 
 <div align="center">
 
-### 🦯 Bazm-e-Rah — AI-Powered Smart Assistive System
-*A fully hands-free, voice-first Android app for visually impaired users*
+**Languages**
 
-`TensorFlow Lite` · `Android (Java)` · `Firebase` · `Text-to-Speech`
+<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-FF1493?style=for-the-badge&logo=dart&logoColor=white">
 
-Real-time object detection · Currency recognition · Offline face recognition · Color detection · Emergency voice-call · Weather via TTS
+**Frontend & Mobile**
+
+<img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-FF1493?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FF1493?style=for-the-badge&logo=firebase&logoColor=white">
+
+**AI / ML / RAG**
+
+<img src="https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/ChromaDB-FF1493?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Azure%20OpenAI-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-FF1493?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-FF69B4?style=for-the-badge&logo=androidstudio&logoColor=white">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=4&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=habibatanveer20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFA751&icon_color=FF6B6B&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibatanveer20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=4D96FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&bg_color=00000000&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A&border_color=FFB6C1&hide_border=false&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&bg_color=00000000&title_color=FF1493&text_color=4A4A4A&border_color=FFB6C1&hide_border=false"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habibatanveer20&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFA751&currStreakLabel=8E2DE2" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&background=00000000&stroke=FFB6C1&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=4A4A4A&dates=4A4A4A&currStreakNum=FF1493&sideNums=FF1493&border=FFB6C1"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FC466B,100:3F5EFB&height=4&section=header" width="100%"/>
+## 🏆 Trophies
 
-## 📌 Pinned Projects
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&column=4&margin-w=15&margin-h=15&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A&background=FFF0F5&border_radius=15"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## 💌 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/habibatanveer20/Bazm-e-Rah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Bazm-e-Rah&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/Loan-Approval-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Loan-Approval-Prediction&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/Customer-Segmentation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Customer-Segmentation&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/Student-Score-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Student-Score-Prediction&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/Forest-Cover-Type-Classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=Forest-Cover-Type-Classification&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/habibatanveer20/BrainsConnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=habibatanveer20&repo=BrainsConnect&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=4&section=header" width="100%"/>
-
-## 🎓 Education
+<br>
 
 <div align="center">
-
-**BS Software Engineering** — PMAS Arid Agriculture University · `2022 – 2026`
-🥈 Silver Medalist, 2nd Position · CGPA **3.86 / 4.00**
-Unity 3D Game Development — IICO Institute
-
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="90">
+<br>
+<i>"Building the future, one commit at a time." 💗</i>
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,25:4D96FF,50:8E2DE2,75:FF512F,100:FFA751&height=120&section=footer" />
-
-*"Building AI that understands, not just automates."*
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FFC0CB&height=120&section=footer"/>
