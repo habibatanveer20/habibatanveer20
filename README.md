@@ -5,222 +5,72 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,50:8A2BE2,100:00C9FF&text=Habiba%20Tanveer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Developer%20%7C%20Machine%20Learning&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F2937,50:374151,100:111827&text=Habiba%20Tanveer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20RAG%20Developer%20%7C%20Machine%20Learning&descAlignY=60"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/habibatanveer20"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
+
+## About
+
+BS Software Engineering graduate focused on applied AI: retrieval-augmented generation (RAG), LLM applications, and AI agents, with a background in Android development.
+
+- Building and shipping RAG pipelines with LangChain and vector databases (ChromaDB, FAISS)
+- Working with LLM APIs, embeddings, and semantic search
+- Experience across the Android stack: Java, Kotlin, Firebase, TensorFlow Lite
+- Comfortable across the full ML lifecycle — data, training, evaluation, deployment
+
+---
+
+## Skills
+
+**AI / ML**
+`Python` `LangChain` `RAG` `LLMs` `Vector Databases (ChromaDB, FAISS)` `Prompt Engineering` `Computer Vision (OpenCV, YOLO)` `TensorFlow` `PyTorch`
+
+**Android**
+`Java` `Kotlin` `Firebase` `TensorFlow Lite` `REST APIs` `Material Design`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Android Studio` `Jupyter` `Google Colab` `MySQL` `Linux`
 
 <div align="center">
 
-# 👋 Hi, I'm Habiba Tanveer
-
-### 💜 AI Engineer | Machine Learning | RAG Developer | Android Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Retrieval-Augmented+Generation;AI+Agents;Android+Developer;Always+Learning+New+Technologies" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,tensorflow,pytorch,firebase,androidstudio,git,github,mysql,vscode,linux"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
+## Currently Learning
 
-<td width="55%">
-
-# 💜 About Me
-
-🎓 BS Software Engineering Graduate
-
-🤖 Passionate about Artificial Intelligence
-
-🧠 Building Intelligent AI Systems
-
-📚 Learning
-
-- LLMs
-- RAG
-- LangChain
-- Vector Databases
-- AI Agents
-
-📱 Android Developer
-
-💡 Love solving real-world problems using AI.
-
-🌱 Every day I learn something new.
-
-</td>
-
-<td width="45%">
-
-<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-
-</tr>
-</table>
+| Area | Progress |
+|---|---|
+| Large Language Models | ███████████████████████░░ 90% |
+| LangChain | ████████████████████░░░░░ 82% |
+| AI Agents | █████████████████████░░░░ 86% |
+| FAISS | ████████████████████░░░░░ 84% |
+| ChromaDB | ███████████████████░░░░░░ 80% |
 
 ---
 
-# 🚀 Current Focus
+## Featured Projects
 
-```text
-🧠 Artificial Intelligence
-██████████████████████████░░░ 92%
-
-🤖 Retrieval-Augmented Generation
-████████████████████████████░ 95%
-
-⚡ AI Agents
-████████████████████████░░░░░ 85%
-
-📱 Android Development
-██████████████████████████░░░ 90%
-
-🐍 Python
-███████████████████████████░░ 93%
-
-☕ Java
-█████████████████████████░░░░ 88%
-```
+| Project | Description | Tech |
+|---|---|---|
+| **AI RAG Assistant** | Document Q&A system using retrieval-augmented generation | Python, LangChain, ChromaDB |
+| **Android AI App** | AI-powered Android application with on-device inference | Java, Firebase, TensorFlow Lite |
+| **Computer Vision Pipeline** | Object detection and recognition | Python, OpenCV, YOLO |
+| **AI Agent Experiments** | Autonomous agents with memory, planning, and retrieval | Python, LangGraph |
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,firebase,tensorflow,pytorch,androidstudio,git,github,mysql,vscode,linux"/>
-
-</div>
-
----
-
-# ⚙ Languages
-
-| Language | Level |
-|----------|-------|
-| Python | ⭐⭐⭐⭐⭐ |
-| Java | ⭐⭐⭐⭐⭐ |
-| Kotlin | ⭐⭐⭐⭐ |
-| SQL | ⭐⭐⭐⭐ |
-| Firebase | ⭐⭐⭐⭐ |
-
----
-
-# 🚀 Featured Domains
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Computer Vision
-
-✔ Deep Learning
-
-✔ Android Development
-
-✔ AI Agents
-
-✔ LangChain
-
-✔ RAG
-
-✔ Vector Databases
-
-✔ REST APIs
-
-✔ Git & GitHub
-
-✔ Firebase
-
----
-
-# 💻 Workspace
-
-Operating System
-
-Windows 11
-
-Editor
-
-VS Code
-
-IDE
-
-Android Studio
-
-Notebook
-
-Jupyter Notebook
-
-Cloud
-
-Google Colab
-
-Version Control
-
-Git + GitHub
-
----
-
-<div align="center">
-
-## 💜 Dream
-
-> Building AI that solves real-world problems.
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-```python
-class Habiba:
-
-    def __init__(self):
-
-        self.role = "AI Engineer"
-
-        self.languages = ["Python", "Java", "Kotlin"]
-
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "RAG",
-            "Android",
-            "AI Agents"
-        ]
-
-    def life(self):
-
-        while True:
-
-            learn()
-
-            build()
-
-            improve()
-
-            share()
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:6C63FF&height=3"/>
-
-# ⭐ Scroll Down For Live GitHub Statistics ⭐
-
-</div>
-<!-- ===================================================== -->
-<!--                  PART 2 - GITHUB STATS                -->
-<!-- ===================================================== -->
-
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
@@ -230,19 +80,11 @@ class Habiba:
 
 </div>
 
----
-
-# 🔥 Contribution Streak
-
 <div align="center">
 
 <img width="80%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
 
 <div align="center">
 
@@ -250,503 +92,56 @@ class Habiba:
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
----
-
-# ⚡ GitHub Summary
-
 <!--
-NOTE: github-profile-summary-cards.vercel.app is currently returning
-"This card is temporarily unavailable" (confirmed in your screenshot).
-This is a known issue with that third-party service, not your markdown.
-Keeping ONE instance below instead of two. If it's still down when you
-publish, comment this block out or swap in an alternative like
-https://github-readme-stats.vercel.app (already used above) until it recovers.
+NOTE: github-profile-summary-cards.vercel.app was returning
+"This card is temporarily unavailable" as of your last screenshot.
+That's a third-party service outage, not a markdown issue.
+Uncomment below once it's back online.
+
+<div align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibatanveer20&theme=tokyonight"/>
+</div>
 -->
 
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibatanveer20&theme=tokyonight"/>
-
-</div>
-
 ---
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 AI RAG Assistant
-
-✔ LangChain
-
-✔ Vector Database
-
-✔ LLM
-
-✔ Embeddings
-
-✔ Semantic Search
-
-</td>
-
-<td width="50%">
-
-## 📱 Android AI App
-
-✔ Java
-
-✔ Firebase
-
-✔ TensorFlow Lite
-
-✔ Voice Assistant
-
-✔ Smart Features
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 👁 Computer Vision
-
-✔ Object Detection
-
-✔ YOLO
-
-✔ OpenCV
-
-✔ TensorFlow
-
-</td>
-
-<td width="50%">
-
-## 🧠 AI Agent
-
-✔ Memory
-
-✔ Retrieval
-
-✔ Planning
-
-✔ Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📚 Currently Learning
-
-```text
-Large Language Models
-███████████████████████░░ 90%
-
-LangChain
-████████████████████░░░░░ 82%
-
-ChromaDB
-███████████████████░░░░░░ 80%
-
-FAISS
-████████████████████░░░░░ 84%
-
-Prompt Engineering
-██████████████████████░░░ 88%
-
-AI Agents
-█████████████████████░░░░ 86%
-```
-
----
-
-# 💡 My Development Philosophy
-
-> "Learn deeply. Build consistently. Share openly. Improve continuously."
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/habibatanveer20">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-# ☕ Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=blueviolet"/>
-
-</div>
-<!-- ===================================================== -->
-<!--                 PART 3 - PREMIUM SECTION              -->
-<!-- ===================================================== -->
-
----
-
-# 💼 Professional Experience
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 💻 AI / Machine Learning
-
-🧠 Retrieval-Augmented Generation (RAG)
-
-🤖 LLM Applications
-
-🔍 Semantic Search
-
-📄 Document Question Answering
-
-🧩 Prompt Engineering
-
-📚 Vector Databases
-
-</td>
-
-<td width="50%">
-
-## 📱 Android Development
-
-Java
-
-Kotlin
-
-Firebase
-
-REST APIs
-
-TensorFlow Lite
-
-Material Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 2026 Roadmap & Vision
-
-```text
-
-Software Engineer
-      │
-      ▼
-Machine Learning Engineer
-      │
-      ▼
-RAG Expert
-      │
-      ▼
-AI Agent Developer
-      │
-      ▼
-AI Engineer 🚀
-
-```
+## Roadmap
 
 | Goal | Status |
-|-------|--------|
-| Master Python | ✅ |
-| Android Development | ✅ |
-| Machine Learning | ✅ |
-| Deep Learning | 🟡 |
-| LangChain | 🟡 |
-| AI Agents | 🟡 |
-| Fine-Tuning LLMs | 🔄 |
-| Open Source Contributions | 🔄 |
-| Build SaaS AI Product | 🎯 |
-| Remote AI Engineer Job | 🎯 |
+|---|---|
+| Python / Java / Kotlin | Done |
+| Android Development | Done |
+| Machine Learning | Done |
+| Deep Learning | In progress |
+| LangChain & RAG | In progress |
+| AI Agents | In progress |
+| Fine-tuning LLMs | Planned |
+| Open source contributions | Planned |
+| Ship a production AI product | Planned |
 
 ---
 
-# 🏅 Certifications
+## Certifications
 
-✔ Machine Learning
-
-✔ Python
-
-✔ Git & GitHub
-
-✔ Android Development
-
-✔ Firebase
-
-✔ Artificial Intelligence
-
-✔ RAG Systems
-
-✔ LangChain
-
----
-
-# 📅 Journey
-
-```text
-
-2022
-│
-├── Started Software Engineering
-│
-2023
-│
-├── Java
-├── Android
-│
-2024
-│
-├── Firebase
-├── Machine Learning
-│
-2025
-│
-├── Computer Vision
-├── TensorFlow
-├── AI Projects
-│
-2026
-│
-├── LLMs
-├── RAG
-├── AI Agents
-├── Open Source
-│
-└── AI Engineer 🚀
-
-```
-
----
-
-# 🧠 AI Quote
-
-<div align="center">
-
-> "Artificial Intelligence is not replacing humans.
->
-> It is empowering those who keep learning."
-
-</div>
-
----
-
-# 🎨 My Workflow
-
-```text
-
-Idea 💡
-
-↓
-
-Research 🔍
-
-↓
-
-Design 🎨
-
-↓
-
-Development 💻
-
-↓
-
-Testing 🧪
-
-↓
-
-Deployment 🚀
-
-↓
-
-Improve 🔄
-
-```
-
----
-
-# 📊 Weekly Coding
-
-```text
-
-Python         ███████████████████░░░ 85%
-
-Java           ████████████████░░░░░░ 72%
-
-Kotlin         ███████████████░░░░░░░ 65%
-
-Machine Learning
-████████████████████░░░ 88%
-
-RAG
-██████████████████████░ 92%
-
-Android
-███████████████████░░░░ 80%
-
-```
-
----
-
-# 🎯 Goals
-
-⭐ Become AI Engineer
-
-⭐ Build AI Products
-
-⭐ Contribute Open Source
-
-⭐ Publish Research
-
-⭐ Work with Global Teams
-
-⭐ Help People Through AI
-
----
-
-# 🎖 Personal Values
-
-💜 Keep Learning
-
-🚀 Build Real Products
-
-🤝 Help Others
-
-🧠 Think Logically
-
-📖 Read Daily
-
-⚡ Never Stop Improving
-
----
-
-# 🌟 Motto
-
-<div align="center">
-
-> **"Dream Big. Learn Daily. Build Fearlessly."**
-
-</div>
-<!-- ===================================================== -->
-<!--             PART 4 - FINAL BOSS EDITION              -->
-<!-- ===================================================== -->
-
----
-
-# 🚀 Open Source Goals
-
-- 🌟 Contribute to AI & ML repositories
-- 🤖 Build production-ready RAG systems
-- 📱 Develop AI-powered Android applications
-- 📚 Share learning through open-source projects
-- 🌍 Collaborate with developers worldwide
-
----
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 AI RAG Assistant | Intelligent document Q&A using LLMs | Python, LangChain, ChromaDB |
-| 📱 Android AI App | AI-powered Android application | Java, Firebase, TensorFlow Lite |
-| 👁 Computer Vision | Object Detection & Recognition | Python, OpenCV, YOLO |
-| 🧠 AI Agents | Autonomous AI Agent Experiments | Python, LangGraph |
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** You need to set up a GitHub Action to generate this image (`platane/snk` is the standard one). It won't render until that workflow runs at least once.
-
-<div align="center">
-
-```text
-https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake-dark.svg
-```
-
-</div>
-
----
-
-# 💻 Daily Routine
-
-```text
-
-☀ Morning
-│
-├── Read AI Papers
-├── Practice Python
-│
-☀ Afternoon
-│
-├── Office Work
-├── Build Projects
-│
-🌙 Night
-│
-├── Learn LLMs
-├── Build RAG
-├── Push to GitHub
-
-```
+Machine Learning · Python · Git & GitHub · Android Development · Firebase · Artificial Intelligence · RAG Systems · LangChain
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff"/>
-
-### ⭐ If you like my work, don't forget to star my repositories!
+<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=flat&color=6366F1"/>
 
 </div>
 
-<!-- ===================================================== -->
-<!--                  END OF README                        -->
-<!-- ===================================================== -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:374151,100:111827&height=140&section=footer"/>
+
+</div>
