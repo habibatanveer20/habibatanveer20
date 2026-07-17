@@ -91,27 +91,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=kotlin"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,firebase,tensorflow,pytorch,androidstudio,git,github,mysql,vscode,linux"/>
 
 </div>
 
@@ -202,11 +182,11 @@ class Habiba:
 
     def __init__(self):
 
-        self.role="AI Engineer"
+        self.role = "AI Engineer"
 
-        self.language=["Python","Java","Kotlin"]
+        self.languages = ["Python", "Java", "Kotlin"]
 
-        self.interests=[
+        self.interests = [
             "Machine Learning",
             "Artificial Intelligence",
             "RAG",
@@ -224,7 +204,7 @@ class Habiba:
 
             improve()
 
-            repeat()
+            share()
 ```
 
 ---
@@ -283,6 +263,15 @@ class Habiba:
 ---
 
 # ⚡ GitHub Summary
+
+<!--
+NOTE: github-profile-summary-cards.vercel.app is currently returning
+"This card is temporarily unavailable" (confirmed in your screenshot).
+This is a known issue with that third-party service, not your markdown.
+Keeping ONE instance below instead of two. If it's still down when you
+publish, comment this block out or swap in an alternative like
+https://github-readme-stats.vercel.app (already used above) until it recovers.
+-->
 
 <div align="center">
 
@@ -427,16 +416,6 @@ AI Agents
 <img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=blueviolet"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 💜 Thanks for visiting my profile!
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-</div>
 <!-- ===================================================== -->
 <!--                 PART 3 - PREMIUM SECTION              -->
 <!-- ===================================================== -->
@@ -491,7 +470,25 @@ Material Design
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Roadmap & Vision
+
+```text
+
+Software Engineer
+      │
+      ▼
+Machine Learning Engineer
+      │
+      ▼
+RAG Expert
+      │
+      ▼
+AI Agent Developer
+      │
+      ▼
+AI Engineer 🚀
+
+```
 
 | Goal | Status |
 |-------|--------|
@@ -525,36 +522,6 @@ Material Design
 ✔ RAG Systems
 
 ✔ LangChain
-
----
-
-# 📂 Featured Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=kotlin"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</div>
 
 ---
 
@@ -680,29 +647,27 @@ Android
 
 ---
 
-# 💜 Fun Code
+# 🎖 Personal Values
 
-```python
+💜 Keep Learning
 
-while True:
+🚀 Build Real Products
 
-    Learn()
+🤝 Help Others
 
-    Practice()
+🧠 Think Logically
 
-    Build()
+📖 Read Daily
 
-    Share()
-
-    Improve()
-
-```
+⚡ Never Stop Improving
 
 ---
 
+# 🌟 Motto
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Keep+Learning+Keep+Building!"/>
+> **"Dream Big. Learn Daily. Build Fearlessly."**
 
 </div>
 <!-- ===================================================== -->
@@ -736,21 +701,9 @@ while True:
 
 ---
 
-# 📊 Profile Summary
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibatanveer20&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibatanveer20&theme=tokyonight&utcOffset=5"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
-> **Note:** Is image ko dikhane ke liye GitHub Action setup karna hota hai.
+> **Note:** You need to set up a GitHub Action to generate this image (`platane/snk` is the standard one). It won't render until that workflow runs at least once.
 
 <div align="center">
 
@@ -785,56 +738,6 @@ https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-
 ```
 
 ---
-
-# 🎖 Personal Values
-
-💜 Keep Learning
-
-🚀 Build Real Products
-
-🤝 Help Others
-
-🧠 Think Logically
-
-📖 Read Daily
-
-⚡ Never Stop Improving
-
----
-
-# 📈 2026 Vision
-
-```text
-
-AI Engineer
-      ▲
-      │
-AI Agent Developer
-      ▲
-      │
-RAG Expert
-      ▲
-      │
-Machine Learning Engineer
-      ▲
-      │
-Software Engineer
-
-```
-
----
-
-# 🌟 Motto
-
-<div align="center">
-
-> **"Dream Big. Learn Daily. Build Fearlessly."**
-
-</div>
-
----
-
-# 🎉 Thank You
 
 <div align="center">
 
