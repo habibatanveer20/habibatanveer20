@@ -127,19 +127,19 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=algolia"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibatanveer20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibatanveer20&theme=algolia"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibatanveer20&theme=github_dark&utcOffset=5" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibatanveer20&theme=algolia&utcOffset=5"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibatanveer20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibatanveer20&theme=algolia"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibatanveer20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibatanveer20&theme=algolia"/>
 
 </div>
 
@@ -147,7 +147,7 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=github-dark-blue&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=algolia&hide_border=true"/>
 
 </div>
 
@@ -155,7 +155,7 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=github-dark&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -166,7 +166,6 @@ A complete accessibility solution combining on-device AI, real-time object and f
 <div align="center">
 
 <picture>
-
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake-dark.svg">
 
