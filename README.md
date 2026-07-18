@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=009BCE&center=true&vCenter=true&width=560&lines=Building+RAG+pipelines+with+LangChain;Working+with+LLMs+%26+Vector+Databases;Android+%2B+AI+%7C+Java+%2F+Kotlin+%2F+TensorFlow;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=009BCE&center=true&vCenter=true&width=560&lines=Building+RAG+pipelines+with+LangChain;Working+with+LLMs+%26+Vector+Databases;Android+%2B+AI+%7C+Java+%2F+Kotlin+Flutter+%2F+%2F+TensorFlow;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
 
 <br/><br/>
 
