@@ -123,14 +123,13 @@ A complete accessibility solution combining on-device AI, real-time object and f
 ---
 
 ---
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=habibatanveer20&show_icons=true&theme=algolia&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=habibatanveer20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibatanveer20&layout=compact&theme=algolia&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibatanveer20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -138,7 +137,7 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=algolia&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=habibatanveer20&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,7 +145,7 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=habibatanveer20&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -154,7 +153,7 @@ A complete accessibility solution combining on-device AI, real-time object and f
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=habibatanveer20&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibatanveer20&theme=tokyonight" />
 
 </div>
 
@@ -165,12 +164,16 @@ A complete accessibility solution combining on-device AI, real-time object and f
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg" />
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
