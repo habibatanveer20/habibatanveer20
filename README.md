@@ -31,12 +31,13 @@
 
 ### 💡 About Me
 
-BS Software Engineering graduate focused on applied AI: retrieval-augmented generation (RAG), LLM applications, and AI agents, with a background in Android development.
+AI Engineer passionate about **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **Machine Learning**. I enjoy designing intelligent systems that solve real-world problems and continuously explore emerging AI technologies to build impactful applications.
 
-- 🔍 Building and shipping RAG pipelines with LangChain and vector databases (ChromaDB, FAISS)
-- 🤖 Working with LLM APIs, embeddings, and semantic search
-- 📱 Experience across the Android stack: Java, Kotlin, Firebase, TensorFlow Lite
-- ⚙️ Comfortable across the full ML lifecycle — data, training, evaluation, deployment
+- 🤖 Building AI-powered applications using LLMs, LangChain & RAG
+- 🔍 Working with Vector Databases, Embeddings & Semantic Search
+- 📱 Android Development using Java, Kotlin & Firebase
+- 🧠 Exploring AI Agents, MCP, Prompt Engineering & Enterprise AI
+- 🌱 Lifelong learner focused on creating practical AI solutions
 
 ---
 
@@ -217,14 +218,24 @@ src="https://raw.githubusercontent.com/habibatanveer20/habibatanveer20/output/gi
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=009BCE"/>
-
-</div>
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01377D,50:009BCE,100:24B16D&height=140&section=footer"/>
+## 🚀 Thanks for Visiting My Profile
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=009BCE&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+RAG+Developer+%7C+Machine+Learning;Building+Intelligent+Systems+for+Real-World+Impact.;Learning+Every+Day.+Building+Every+Day.;Open+to+Collaboration+and+Innovative+Projects."/>
+
+<br>
+
+### *"Transforming ideas into intelligent solutions through AI, continuous learning, and innovation."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=habibatanveer20&style=for-the-badge&color=009BCE&label=Profile+Views"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:01377D,50:009BCE,100:24B16D&animation=twinkling"/>
 
 </div>
