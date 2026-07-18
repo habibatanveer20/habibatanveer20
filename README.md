@@ -13,9 +13,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=009BCE&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+with+LangChain;Working+with+LLMs+%26+Vector+Databases;Android+%2B+AI+%7C+Java+%2F+Kotlin+%2F+Flutter+%2F+TensorFlow;Turning+ideas+into+shipped+products" alt="Typing SVG"/>
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-01377D?style=for-the-badge&logo=linkedin&logoColor=97E7F5"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-24B16D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/habibatanveer20"><img src="https://img.shields.io/badge/GitHub-009BCE?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/habiba-tanveer-8a8b8a219/">
+  <img src="https://img.shields.io/badge/LinkedIn-01377D?style=for-the-badge&logo=linkedin&logoColor=97E7F5"/>
+</a>
+
+<a href="mailto:habibatanveer347@gmail.com">
+  <img src="https://img.shields.io/badge/Email-24B16D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/habibatanveer20">
+  <img src="https://img.shields.io/badge/GitHub-009BCE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
