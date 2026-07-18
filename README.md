@@ -66,17 +66,13 @@ BS Software Engineering graduate focused on applied AI: retrieval-augmented gene
 
 ### 📈 Currently Learning
 
-<div align="center">
-
 | Area | Progress |
 |:---|:---|
-| Large Language Models | ![90%](https://progress-bar.dev/90/?color=009BCE) |
-| LangChain | ![82%](https://progress-bar.dev/82/?color=24B16D) |
-| AI Agents | ![86%](https://progress-bar.dev/86/?color=009BCE) |
-| FAISS | ![84%](https://progress-bar.dev/84/?color=24B16D) |
-| ChromaDB | ![80%](https://progress-bar.dev/80/?color=009BCE) |
-
-</div>
+| Large Language Models | ![90%](https://img.shields.io/badge/-90%25-009BCE?style=flat-square) |
+| LangChain | ![82%](https://img.shields.io/badge/-82%25-24B16D?style=flat-square) |
+| AI Agents | ![86%](https://img.shields.io/badge/-86%25-009BCE?style=flat-square) |
+| FAISS | ![84%](https://img.shields.io/badge/-84%25-24B16D?style=flat-square) |
+| ChromaDB | ![80%](https://img.shields.io/badge/-80%25-009BCE?style=flat-square) |
 
 ---
 
